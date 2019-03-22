@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 add merge test
 test bug xxx
 bt
+“我懂了,就是把工作台清理干净，方便修改Bug”
