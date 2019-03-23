@@ -8,3 +8,4 @@ add merge test
 test bug xxx
 bt
 “我懂了,就是把工作台清理干净，方便修改Bug”
+“小圆点代表节点”
